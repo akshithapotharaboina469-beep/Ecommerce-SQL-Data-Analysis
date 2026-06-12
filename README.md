@@ -29,3 +29,7 @@ This project analyzes an E-Commerce Sales dataset using SQL to extract meaningfu
 ## Conclusion
 
 Performed SQL-based data analysis to explore sales data, calculate revenue, analyze products, and generate business insights.
+
+## Acknowledgement
+
+This project was completed as part of the DecodeLabs Data Analytics Internship Program.
