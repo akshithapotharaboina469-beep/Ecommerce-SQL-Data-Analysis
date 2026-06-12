@@ -32,4 +32,4 @@ Performed SQL-based data analysis to explore sales data, calculate revenue, anal
 
 ## Acknowledgement
 
-This project was completed as part of the DecodeLabs Data Analytics Internship Program.
+This project was completed as part of the DecodeLabs Data Analytics Internship Program(Week-3).
